@@ -73,7 +73,7 @@ person instead of the other way round, and **honest numbers over good stories**.
 ## 🤝 Let's connect
 
 <p>
-  <a href="https://www.linkedin.com/in/YOUR-PROFILE">
+  <a href="https://www.linkedin.com/in/riccardo-carano">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </p>
